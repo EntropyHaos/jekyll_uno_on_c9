@@ -6,7 +6,7 @@ description: 'Jekyll-Uno - a minimal, responsive theme for Jekyll'
 # google_analytics: 'UA-XXXXXX-X'
 # disqus_shortname: 'your-disqus-name'
 
-#baseurl: "/"
+baseurl: "/"
 port: 8080
 host: 0.0.0.0
 
