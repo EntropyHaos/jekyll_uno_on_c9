@@ -21,7 +21,7 @@ author:
 defaults:
   -
     scope:
-      path: 'docs'
+      path: ''
       type: 'posts'
     values:
         layout: 'post'
