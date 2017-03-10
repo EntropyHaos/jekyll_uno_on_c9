@@ -33,10 +33,7 @@ Access via: [http://localhost:4000/jekyll-uno/](http://localhost:4000/jekyll-uno
 
 ### Demo and Download
 
-[Demo](http://joshgerdes.com/jekyll-uno/)
-[Download](https://github.com/joshgerdes/jekyll-uno/archive/master.zip)
-
-![jekyll-uno - free Jekyll theme](/screenshot.png)
+[Demo](https://entropyhaos.github.io/jekyll-uno/)
 
 ---
 
