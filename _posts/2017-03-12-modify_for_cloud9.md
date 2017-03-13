@@ -1,6 +1,6 @@
 ---
 title:  "Jekyll on Cloud9 Configurations"
-date:   2017-03-13 07:29:23
+date:   2017-03-12 07:29:23
 categories: [Cloud9 Modifications]
 tags: [how-to, introduction, cloud9-configs]
 ---
