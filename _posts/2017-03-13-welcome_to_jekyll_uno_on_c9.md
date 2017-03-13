@@ -13,8 +13,8 @@ It has been slightly modified to allow for development using the online [Cloud9]
 
 ### Modifications
 
-* [Add port variable definition](../modify_for_cloud9/) to _config.yml file.
-* [Add host variable definition](../modify_for_cloud9/) to _config.yml file.
+* Add [features post](../features/) with links and basic how-to info.
+* [Add port and host variable definition](../modify_for_cloud9/) to _config.yml file.
 * Modify contact info in _config.yml file.
 * Remove url variable definition from _config.yml file.
 * Modify wording of title page to reflect changes. 

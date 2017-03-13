@@ -3,7 +3,10 @@ title: Jekyll-Uno(C9)
 description: '- A minimal, responsive theme for Jekyll, useable with the Cloud9 IDE'
 #url: 'http://joshgerdes.com/jekyll-uno'
 baseurl: '/jekyll_uno_on_c9/'
-# google_analytics: 'UA-XXXXXX-X'
+
+# Google Analytics Tracking ID
+google_analytics: 'UA-92171668-2'
+
 # disqus_shortname: 'your-disqus-name'
 
 # Modifications for Cloud9 Development.
