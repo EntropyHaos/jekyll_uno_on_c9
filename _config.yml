@@ -1,22 +1,22 @@
 # Site settings
-title: Jekyll-Uno
-description: 'Jekyll-Uno - a minimal, responsive theme for Jekyll'
-#url: 'https://entropyhaos.github.io/jekyll-uno'
+title: Jekyll-Uno(C9)
+description: '- A minimal, responsive theme for Jekyll, useable with the Cloud9 IDE'
+#url: 'http://joshgerdes.com/jekyll-uno'
 baseurl: '/jekyll-uno/'
 # google_analytics: 'UA-XXXXXX-X'
 # disqus_shortname: 'your-disqus-name'
 
-#baseurl: ""
+# Modifications for Cloud9 Development.
 port: 8080
 host: 0.0.0.0
 
 author:
-  name: 'Josh Gerdes'
-  email: josh@joshgerdes.com
-  twitter_username: joshgerdes
-  facebook_username: joshgerdes
-  github_username:  joshgerdes
-  linkedin_username:  joshgerdes
+  name: 'Benjamin Haos'
+  email: benjaminhaos@gmail.com
+  twitter_username: EntropyHaos
+  #facebook_username: 
+  github_username:  EntropyHaos
+  linkedin_username:  benjaminhaos
 
 defaults:
   -
