@@ -1,14 +1,16 @@
 ---
-title:  "Contact Info"
+title:  "Social Links"
 date:   2017-03-12 07:29:23
 categories: [Configs]
 tags: [jekyll-configs]
 comments: false
 ---
 
-The `_config.yml` file is where your basic information that is shared across the site lives.
+The `_config.yml` file is where basic information that is shared across the site lives.
 
-The theme offers several options for sharing contact info. You can configure them by creating a variable definition in the `_config.yml` file as such:
+The theme offers several options for sharing contact info.
+
+You can configure them by creating a variable definition in the `_config.yml` file as such:
 
 ```yml
 author:

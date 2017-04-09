@@ -31,8 +31,9 @@ defaults:
 
 # Build settings
 destination: _site
-paginate: 10
-permalink: /:year/:title/
+# Limit the number of posts shown on each page:
+paginate: 4
+permalink: /:title/
 markdown: kramdown
 highlighter: rouge
 
